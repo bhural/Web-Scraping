@@ -1,0 +1,4140 @@
+[
+  {
+    "url": "https://ferde.no/bomanlegg-og-priser/kvammapakken",
+    "Tollbooths_and_prices": [
+      {
+        "tariff_group_1":{
+          "AutoPASS agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"20.80",
+              "Zero emission vehicle":"10.40"
+            }
+          },
+          "Without agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"26.00",
+              "Zero emission vehicle":"26.00"
+            }
+          }
+
+        },
+        "tariff_group_2":{
+          "AutoPASS agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"34.00",
+              "Zero emission vehicle":"0.00"
+            }
+          },
+          "Without agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"34.00",
+              "Zero emission vehicle":"34.00"
+            }
+          }
+
+        }
+      }
+        
+    ]
+  },
+    
+  {
+    "url": "https://ferde.no/bomanlegg-og-priser/gjesdal",
+    "Tollbooths_and_prices": [
+      {
+        "tariff_group_1":{
+          "AutoPASS agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"51.20",
+              "Zero emission vehicle":"25.60"
+            }
+          },
+          "Without agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"64.00",
+              "Zero emission vehicle":"64.00"
+            }
+          }
+
+        },
+        "tariff_group_2":{
+          "AutoPASS agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"84.00",
+              "Zero emission vehicle":"0.00"
+            }
+          },
+          "Without agreement":{
+            "Tariffs":{
+              "Ordinary vehicles":"84.00",
+              "Zero emission vehicle":"84.00"
+            }
+          }
+
+        }
+      }
+        
+    ]
+  },
+      {
+        "url": "https://ferde.no/bomanlegg-og-priser/askoypakken",
+        "tollbooth_prices": [
+          {
+            "group_name": "tariff_group_1",
+            "AutoPASS agreement": [
+              {
+                "type": "Rates until 28.02.23",
+                "Ordinary vehicles": "119.20",
+                "Zero emission vehicle": "59.60"
+              },
+              {
+                "type": "Tariffs from 01.03.23",
+                "Ordinary vehicles": "24.00",
+                "Zero emission vehicle": "12.00"
+              }
+            ],
+            "Without agreement": [
+              {
+                "type": "Rates until 28.02.23",
+                "Ordinary vehicles": "149.00",
+                "Zero emission vehicle": "149.00"
+              },
+              {
+                "type": "Tariffs from 01.03.23",
+                "Ordinary vehicles": "30.00",
+                "Zero emission vehicle": "30.00"
+              }
+            ]
+          },
+          {
+            "group_name": "tariff_group_2",
+            "AutoPASS agreement": [
+              {
+                "type": "Rates until 28.02.23",
+                "Ordinary vehicles": "52.00",
+                "Zero emission vehicle": "0.00"
+              },
+              {
+                "type": "Tariffs from 01.03.23",
+                "Ordinary vehicles": "69.00",
+                "Zero emission vehicle": "0.00"
+              }
+            ],
+            "Without agreement": [
+              {
+                "type": "Rates until 28.02.23",
+                "Ordinary vehicles": "52.00",
+                "Zero emission vehicle": "52.00"
+              },
+              {
+                "type": "Tariffs from 01.03.23",
+                "Ordinary vehicles": "69.00",
+                "Zero emission vehicle": "69.00"
+              }
+            ]
+          }
+        ]
+      },
+       {
+            "url": "https://ostfold.vegfinans.no/priser-og-betaling/takster-4",
+            "company_name": "Vegfinans Østfold Bompengeselskap",
+            "toll_groups": [
+                {
+                    "name": "Takstgruppe 1",
+                    "tolls": [
+                        {
+                            "location": "E6 Raukerud",
+                            "full_price": 20,
+                            "discounted_price": 16.00,
+                            "full_price_with_agreement": 37
+                        },
+                        {
+                            "location": "Fv. 311 Kambo",
+                            "full_price": 20,
+                            "discounted_price": 16.00,
+                            "full_price_with_agreement": 37
+                        },
+                        {
+                            "location": "E18 Brennemoen",
+                            "full_price": 15,
+                            "discounted_price": 12.00,
+                            "full_price_with_agreement": 27
+                        },
+                        {
+                            "location": "Fv. 128 Slitu",
+                            "full_price": 15,
+                            "discounted_price": 12.00,
+                            "full_price_with_agreement": 27
+                        }
+                    ]
+                },
+                {
+                    "name": "Takstgruppe 2",
+                    "tolls": [
+                        {
+                            "location": "E18 Dalen",
+                            "full_price": 10,
+                            "discounted_price": 8.00,
+                            "full_price_with_agreement": 18
+                        },
+                        {
+                            "location": "E18 Ramstad vest",
+                            "full_price": 10,
+                            "discounted_price": 8.00,
+                            "full_price_with_agreement": 18
+                        },
+                        {
+                            "location": "E18 Elvestad vest",
+                            "full_price": 8,
+                            "discounted_price": 6.40,
+                            "full_price_with_agreement": 14
+                        },
+                        {
+                            "location": "Fv. 128 Elvestad vest",
+                            "full_price": 8,
+                            "discounted_price": 6.40,
+                            "full_price_with_agreement": 14
+                        },
+                        {
+                            "location": "E18 Ørje øst",
+                            "full_price": 8,
+                            "discounted_price": 6.40,
+                            "full_price_with_agreement": 14
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+        "url": "https://rv36telemark.vegfinans.no/priser-og-betaling/takster-20",
+        "tariffs":[
+            {
+                "starting_date": "Rates from 20 May 2022 at 12",
+                "name": "Vegfinans Rv36 Telemark",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 36 Ullevik",
+                        "full_price": 30.00,
+                        "by_appointment": 24.00
+                      },
+                      {
+                        "name": "Rev. 36 Stody",
+                        "full_price": 22.00,
+                        "by_appointment": 17.60
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Rev. 36 Ullevik",
+                            "zero_emission_vehicle_with_agreement": 77
+                          },
+                          {
+                            "name": "Rev. 36 Stody",
+                            "zero_emission_vehicle_with_agreement": 66
+                          }
+                    ]
+                  }
+                ]
+              },
+
+
+              {
+                "untill_date": "Rates until 20 May at 12",
+                "name": "Vegfinans Rv36 Telemark",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 36 Ullevik",
+                        "full_price": 30,
+                        "by_appointment": 24.40
+                      },
+                      {
+                        "name": "Rev. 36 Stody",
+                        "full_price": 22,
+                        "by_appointment": 17.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Rev. 36 Ullevik",
+                            "full_price_and_agreement": 77
+                          },
+                          {
+                            "name": "Rev. 36 Stody",
+                            "full_price_and_agreement": 66
+                          }
+                    ]
+                  }
+                ]
+              }
+              
+        ]
+    },
+
+
+
+
+
+
+    {
+        "url": "https://rv4oppland.vegfinans.no/priser-og-betaling/takster-16",
+        "tariffs":[
+            {
+                "starting_date": "Rates from 1 March 2022 at 12:00",
+                "name": "Vegfinans Rv4 Oppland",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 4 The duvet",
+                        "full_price": 48,
+                        "by_appointment": 38.4,
+                        "zero_emission_vehicle_with_agreement": 19.2
+                      },
+                      {
+                        "name": "Fv. 2300 Dynna",
+                        "full_price": 48,
+                        "by_appointment": 38.4,
+                        "zero_emission_vehicle_with_agreement": 19.2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Rev. 4 That",
+                            "full_price_and_agreement": 80,
+                            "zero_emission_vehicle_with_agreement_2": 0
+                          },
+                          {
+                            "name": "Fv. 2300 Dyna",
+                            "full_price_and_agreement": 80,
+                            "zero_emission_vehicle_with_agreement_2": 0
+                          }
+                    ]
+                  }
+                ]
+              },
+
+
+              {
+                "untill_date": "Rates until 1 March 2022 at 12:00",
+                "name": "Vegfinans Rv4 Oppland",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 4 That",
+                        "full_price": 43,
+                        "by_appointment": 34.40
+                      },
+                      {
+                        "name": "Fv. 2300 Dyna",
+                        "full_price": 43,
+                        "by_appointment": 34.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Rev. 4 That",
+                            "full_price_and_agreement": 71
+                          },
+                          {
+                            "name": "Fv. 2300 Dyna",
+                            "full_price_and_agreement": 71
+                          }
+                    ]
+                  }
+                ]
+              }
+              
+        ]
+        
+    },
+
+
+    
+    {
+        "url": "https://rv3ogrv25.vegfinans.no/priser-og-betaling/takster-22",
+        "tariffs":[
+            {
+                "starting_date": "Rates from 19 February 2021 at 12.00",
+                "name": "Vegfinans Rv3 and Rv25 Hamar-Elverum",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "New rv. 3 / rv. 25",
+                        "full_price": 22,
+                        "by_appointment": 17.60,
+                        "zero_emission_vehicle_with_agreement": 8.80
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "New rv. 3 / rv. 25",
+                            "full_price_and_agreement": 44,
+                            "zero_emission_vehicle_with_agreement_2": 0
+                          }
+                    ]
+                  }
+                ]
+              },
+
+
+              {
+                "untill_date": "Rates until 19 February 2021 at 12.00",
+                "name": "Vegfinans Rv3 and Rv25 Hamar-Elverum",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "New rv. 3 / rv. 25",
+                        "full_price": 43,
+                        "by_appointment": 34.40,
+                        "zero_emission_vehicle_with_agreement_2": 17
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "New rv. 3 / rv. 25",
+                            "full_price_and_agreement": 86,
+                            "zero_emission_vehicle_with_agreement_2": 0
+                          }
+                    ]
+                  }
+                ]
+              }
+              
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://hallingporten.vegfinans.no/priser-og-betaling/takster-14",
+        "tariffs":[
+            {
+                "starting_date": "Rates from 20 May 2022 at 12 noon",
+                "name": "Vegfinans Hallingporten",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 7 Brekkebygda",
+                        "full_price": 86,
+                        "by_appointment": 68.80
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "New rv. 3 / rv. 25",
+                            "full_price_and_agreement": 175
+                          }
+                    ]
+                  }
+                ]
+              },
+
+
+              {
+                "untill_date": "Rates until 20 May 2022 at 12 noon",
+                "name": "Vegfinans Hallingporten",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Rev. 7 Brekkebygda",
+                        "full_price": 78,
+                        "by_appointment": 62.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Rev. 7 Brekkebygda",
+                            "full_price_and_agreement": 157
+                           
+                          }
+                    ]
+                  }
+                ]
+              }
+              
+        ]
+    },
+
+
+
+
+
+
+
+    
+    {
+        "url": "https://fv311.vegfinans.no/priser-og-betaling/takster-23",
+        "tariffs":[
+            {
+                "name": "Vegfinans Fv 311 Presterødbakken",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Fv. 311 Presterødbakken",
+                        "full_price": 21,
+                        "by_appointment": 16.80,
+                        "Zero_emission_vehicle_with_agreement":6.72
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Fv. 311 Presterødbakken",
+                            "full_price_and_agreement": 175,
+                            "Zero_emission_vehicle_with_agreement":0
+                          }
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://fv34oppland.vegfinans.no/priser-og-betaling/takster-3",
+        "tariffs":[
+            {
+                "name": "Vegfinans Fv34 Oppland",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Fv. 34 Halter",
+                        "full_price": 33,
+                        "by_appointment": 26.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Fv. 34 Halter",
+                            "full_price_and_agreement": 54
+                          }
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://fv33oppland.vegfinans.no/priser-og-betaling/takster-13",
+        "tariffs":[
+            {
+                "starting_date": "Rates from 12 October 2020 at 10.00",
+                "name": "Vegfinans Fv33 Oppland",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Fv. 33 Wesle Øyangen",
+                        "full_price": 21,
+                        "by_appointment": 16.80,
+                        "Zero_emission_vehicle_with_agreement":8.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Fv. 33 Wesle Øyangen",
+                            "full_price_and_agreement": 42,
+                            "Zero_emission_vehicle_with_agreement":0
+                          }
+                    ]
+                  }
+                ]
+              }
+            ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e134buskerud.vegfinans.no/priser-og-betaling/takster-15",
+        "tariffs":[
+            {
+                "name": "Vegfinans E134 Buskerud",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "E134 Damåsen",
+                        "full_price": 38,
+                        "by_appointment": 30.40
+                      },
+                      {
+                        "name": "E134 Kongsberg/Notodden border(formerly Saggrenda",
+                        "full_price": 38,
+                        "by_appointment": 30.40
+                      },
+                      {
+                        "name": "Fv. 286 Damåsen",
+                        "full_price": 38,
+                        "by_appointment": 30.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "E134 Damåsen",
+                            "full_price_and_agreement": 93
+                          },
+                          {
+                            "name": "E134 Kongsberg/Notodden border(formerly Saggrenda",
+                            "full_price_and_agreement": 93
+                          },
+                          {
+                            "name": "Fv. 286 Damåsen",
+                            "full_price_and_agreement": 93
+                          }
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "url": "https://e18vestfold.vegfinans.no/priser-og-betaling/takster-7",
+        "tariffs":[
+            {
+                "name": "Vegfinans E18 Vestfold",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Golden",
+                        "full_price": 5,
+                        "by_appointment": 4.00
+                      },
+                      {
+                        "name": "Ramsum",
+                        "full_price": 12,
+                        "by_appointment": 9.60
+                      },
+                      {
+                        "name": "Fox red",
+                        "full_price": 7,
+                        "by_appointment": 50.60
+                      },
+                      {
+                        "name": "Nativity scene",
+                        "full_price": 8,
+                        "by_appointment": 6.40
+                      },
+                      {
+                        "name": "Skinmo",
+                        "full_price": 10,
+                        "by_appointment": 80.00
+                      },
+                      {
+                        "name": "Bommestad",
+                        "full_price": 8,
+                        "by_appointment": 6.40
+                      },
+                      {
+                        "name": "Cloud",
+                        "full_price": 13,
+                        "by_appointment": 10.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Golden",
+                            "full_price_and_agreement": 9
+                          },
+                          {
+                            "name": "Ramsum",
+                            "full_price_and_agreement": 20
+                          },
+                          {
+                            "name": "Fox red",
+                            "full_price_and_agreement": 11
+                          },
+                          {
+                            "name": "Nativity scene",
+                            "full_price_and_agreement": 12
+                          },
+                          {
+                            "name": "Cloud",
+                            "full_price_and_agreement": 21
+                          },
+                          {
+                            "name": "Skinmo",
+                            "full_price_and_agreement": 16
+                          },
+                          {
+                            "name": "Bommestad",
+                            "full_price_and_agreement": 13
+                          }
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+
+    
+    {
+        "url": "https://e18telemark.vegfinans.no/priser-og-betaling/takster-21",
+        "tariffs":[
+          {
+              "starting_date": "Rates from 2 December 2019 at 20:00",
+              "name": "Vegfinans E18 Telemark",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E18 The position",
+                      "full_price": 36,
+                      "by_appointment": 28.80,
+                      "Zero_emission_vehicle_with_agreement":14.40
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E18 The position",
+                          "full_price_and_agreement": 72,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e16oppland.vegfinans.no/priser-og-betaling/takster-1",
+        "tariffs":[
+          {
+              "starting_date": "Rates until 1 March at 10:00",
+              "name": "Vegfinans E16 Oppland",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E16 Bagnskleive",
+                      "full_price": 61,
+                      "by_appointment": 48.80,
+                      "Zero_emission_vehicle_with_agreement":24.40
+                    },
+                    {
+                      "name": "Bagskleive side road",
+                      "full_price": 61,
+                      "by_appointment": 48.80,
+                      "Zero_emission_vehicle_with_agreement":24.40
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E16 Bagnskleive",
+                          "full_price_and_agreement": 152,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Bagskleive side road",
+                          "full_price_and_agreement": 152,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "untill_date": "Rates until 1 March at 10:00",
+              "name": "Vegfinans E16 Oppland",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E16 Bagnskleive",
+                      "full_price": 56,
+                      "by_appointment": 44.80,
+                      "Zero_emission_vehicle_with_agreement":22.40
+                    },
+                    {
+                      "name": "Bagskleive side road",
+                      "full_price": 56,
+                      "by_appointment": 44.80,
+                      "Zero_emission_vehicle_with_agreement":22.40
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E16 Bagnskleive",
+                          "full_price_and_agreement": 140,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Bagskleive side road",
+                          "full_price_and_agreement": 140,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://kongsvingervegen.vegfinans.no/priser-og-betaling/takster-11",
+         "tariffs":[
+          {
+              "starting_date": "Rates after 15 August 2022 at 10 a.m",
+              "name": "Vegfinans E16 Kongsvingervegen",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E16 Åsum",
+                      "full_price": 38,
+                      "by_appointment": 30.40,
+                      "Zero_emission_vehicle_with_agreement":15.20
+                    },
+                    {
+                      "name": "Fv. 175 Åsum",
+                      "full_price": 19,
+                      "by_appointment": 15.20,
+                      "Zero_emission_vehicle_with_agreement":7.60
+                    },
+                    {
+                      "name": "Fv. 250 Fulu",
+                      "full_price": 19,
+                      "by_appointment": 15.20,
+                      "Zero_emission_vehicle_with_agreement":7.60
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E16 Åsum",
+                          "full_price_and_agreement": 62,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 175 Åsum",
+                          "full_price_and_agreement": 31,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 250 Fulu",
+                          "full_price_and_agreement": 31,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "untill_date": "Tariffs before 15 August 2022 at 10 a.m",
+              "name": "Vegfinans E16 Kongsvingervegen",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E16 Åsum",
+                      "full_price": 33,
+                      "by_appointment": 26.40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "Fv. 175 Åsum",
+                      "full_price": 17,
+                      "by_appointment": 13.60,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "Fv. 250 Fulu",
+                      "full_price": 17,
+                      "by_appointment": 13.60,
+                      "Zero_emission_vehicle_with_agreement":0
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E16 Åsum",
+                          "full_price_and_agreement": 55,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 175 Åsum",
+                          "full_price_and_agreement": 28,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 250 Fulu",
+                          "full_price_and_agreement": 28,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e16eggemoen-olum.vegfinans.no/priser-og-betaling/takster-5",
+        "tariffs":[
+          {
+              "starting_date": "started on Friday 8 July 2022 at 10:00",
+              "name": "Vegfinans E16 Eggemoen - Olum",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "boom_section": "Toll cut 1",
+                      "name": "E16 Olum",
+                      "full_price": 58,
+                      "by_appointment": 46.40,
+                      "Zero_emission_vehicle_with_agreement":23.20
+                    },
+                    {
+                      "boom_section": "Toll cut 2",
+                      "name": "Fv. 2280 Eggemoen",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    },
+                    {
+                      "boom_section": "Toll cut 3",
+                      "name": "Kleggerud north Kleggerud ramp Kleggerud south",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    },
+                    {
+                      "boom_section": "Toll cut 4",
+                      "name": "Fv. 2280 Olum",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                       {
+                          "boom_section": "Toll cut 1",
+                          "name": "E16 Olum",
+                          "full_price_and_agreement": 145,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "boom_section": "Toll cut 2",
+                          "name": "Fv. 2280 Eggemoen",
+                          "full_price_and_agreement": 53,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "boom_section": "Toll cut 3",
+                          "name": "Kleggerud north Kleggerud ramp Kleggerud south",
+                          "full_price_and_agreement": 53,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "boom_section": "Toll cut 4",
+                          "name": "Fv. 2280 Olum",
+                          "full_price_and_agreement": 53,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e6ringebu-otta.vegfinans.no/priser-og-betaling/takster-8",
+        "tariffs":[
+          {
+              "starting_date": "Rates from 1 March 2023 at 10:00 a",
+              "name": "Vegfinans E6 Ringebu-Otta",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Odenrud",
+                      "full_price": 39,
+                      "by_appointment": 31.20,
+                      "Zero_emission_vehicle_with_agreement":15.60
+                    },
+                    {
+                      "name": "E6 Hardvollsmorka",
+                      "full_price": 26,
+                      "by_appointment": 20.80,
+                      "Zero_emission_vehicle_with_agreement":10.40
+                    },
+                    {
+                      "name": "E6 The dough fight",
+                      "full_price": 36,
+                      "by_appointment": 28.80,
+                      "Zero_emission_vehicle_with_agreement":14.40
+                    },
+                    {
+                      "name": "E6 The birch rust",
+                      "full_price": 17,
+                      "by_appointment": 13.60,
+                      "Zero_emission_vehicle_with_agreement":6.80
+                    },
+                    {
+                      "name": "Fv. 2522 Horseshoe Hill",
+                      "full_price": 20,
+                      "by_appointment": 16,
+                      "Zero_emission_vehicle_with_agreement":8
+                    },
+                    {
+                      "name": "Fv. 2522 Moastugu",
+                      "full_price": 13,
+                      "by_appointment": 10.40,
+                      "Zero_emission_vehicle_with_agreement":5.20
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E6 Odenrud",
+                          "full_price_and_agreement": 78,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 Hardvollsmorka",
+                          "full_price_and_agreement": 52,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 The dough fight",
+                          "full_price_and_agreement": 72,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 The birch rust",
+                          "full_price_and_agreement": 34,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 2522 Horseshoe Hill",
+                          "full_price_and_agreement": 40,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 2522 Moastugu",
+                          "full_price_and_agreement": 26,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "untill_date": "Rates until 1 March at 10:00",
+              "name": "Vegfinans E6 Ringebu-Otta",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Odenrud",
+                      "full_price": 36,
+                      "by_appointment": 28.80,
+                      "Zero_emission_vehicle_with_agreement":14.40
+                    },
+                    {
+                      "name": "E6 Hardvollsmorka",
+                      "full_price": 24,
+                      "by_appointment": 19.20,
+                      "Zero_emission_vehicle_with_agreement":9.60
+                    },
+                    {
+                      "name": "E6 The dough fight",
+                      "full_price": 33,
+                      "by_appointment": 26.40,
+                      "Zero_emission_vehicle_with_agreement":13.20
+                    },
+                    {
+                      "name": "E6 The birch rust",
+                      "full_price": 16,
+                      "by_appointment": 12.80,
+                      "Zero_emission_vehicle_with_agreement":6.40
+                    },
+                    {
+                      "name": "Fv. 2522 Horseshoe Hill",
+                      "full_price": 18,
+                      "by_appointment": 14.40,
+                      "Zero_emission_vehicle_with_agreement":7.20
+                    },
+                    {
+                      "name": "Fv. 2522 Moastugu",
+                      "full_price": 12,
+                      "by_appointment": 9.60,
+                      "Zero_emission_vehicle_with_agreement":4.80
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E6 Odenrud",
+                          "full_price_and_agreement": 72,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 Hardvollsmorka",
+                          "full_price_and_agreement": 48,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 The dough fight",
+                          "full_price_and_agreement": 66,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "E6 The birch rust",
+                          "full_price_and_agreement": 32,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 2522 Horseshoe Hill",
+                          "full_price_and_agreement": 36,
+                          "Zero_emission_vehicle_with_agreement":0
+                        },
+                        {
+                          "name": "Fv. 2522 Moastugu",
+                          "full_price_and_agreement": 24,
+                          "Zero_emission_vehicle_with_agreement":0
+                        }
+                  ]
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e6oppland.vegfinans.no/priser-og-betaling/takster-2",
+        "tariffs":[
+          {
+              "starting_date": "Rates from 20 May 2022 at 12 noon",
+              "name": "Vegfinans E6 Oppland",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Tingberg",
+                      "full_price": 27,
+                      "by_appointment": 21.60
+                    }
+                    
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E6 Tingberg",
+                          "full_price_and_agreement": 45
+                        }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "untill_date": "Rates until 20 May at 12 noon",
+              "name": "Vegfinans E6 Oppland",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Tingberg",
+                      "full_price": 24,
+                      "by_appointment": 19.20
+                    }
+                  ]
+                },
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                      {
+                          "name": "E6 Tingberg",
+                          "full_price_and_agreement": 40                  }
+                  ]
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://e6bompenger.vegfinans.no/priser-og-betaling/takster-12",
+        "tariffs":[
+          {
+              "starting_date": "Rates from 1 March 2023 at 10:00 a.m",
+              "name": "Vegfinans E6 Gardermoen-Moelv",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Hovinmoen - Dal",
+                      "full_price": 23,
+                      "by_appointment": 18.40,
+                      "Zero_emission_vehicle_with_agreement":5.52
+                    },
+                    {
+                      "name": "E6 Dal - Boksrud",
+                      "full_price": 23,
+                      "by_appointment": 18.40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Boksrud - Minnesund",
+                      "full_price": 18,
+                      "by_appointment": 14.40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Minnesund - Hedmark border",
+                      "full_price": 24,
+                      "by_appointment": 19.20,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Akershus border - Skaberud",
+                      "full_price": 25,
+                      "by_appointment": 20,
+                      "Zero_emission_vehicle_with_agreement":10
+                    },
+                    {
+                      "name": "E6 Skaberud - Kolomoen",
+                      "full_price": 27,
+                      "by_appointment": 21.60,
+                      "Zero_emission_vehicle_with_agreement":10.80
+                    },
+                    {
+                      "name": "E6 Jønsberg",
+                      "full_price": 26	,
+                      "by_appointment": 20.80,
+                      "Zero_emission_vehicle_with_agreement":10.40
+                    },
+                    {
+                      "name": "E6 Vienna N",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    },
+                    {
+                      "name": "E6 Bergshøgda",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    },
+                    {
+                      "name": "E6 Ökelsrud",
+                      "full_price": 21,
+                      "by_appointment": 16.80,
+                      "Zero_emission_vehicle_with_agreement":8.40
+                    }
+                  ]
+                },
+
+
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Hovinmoen - Dal",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Dal - Boksrud",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Boksrud - Minnesund",
+                      "full_price_and_agreement": 19,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Minnesund - Hedmark border",
+                      "full_price_and_agreement": 40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Akershus border - Skaberud",
+                      "full_price_and_agreement": 42,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Skaberud - Kolomoen",
+                      "full_price_and_agreement": 46,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Jønsberg",
+                      "full_price_and_agreement": 52,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Vienna N",
+                      "full_price_and_agreement": 42,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Bergshøgda",
+                      "full_price_and_agreement": 42,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Ökelsrud",
+                      "full_price_and_agreement": 42,
+                      "Zero_emission_vehicle_with_agreement":0
+                    }
+                  ]
+                  
+                }
+              ]
+            },
+
+            {
+              "untill_date": "Rates until 1 March at 10:00",
+              "name": "Vegfinans E6 Gardermoen-Moelv",
+              "tariff_groups": [
+                {
+                  "name": "Tariff group 1",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Hovinmoen - Dal",
+                      "full_price": 23,
+                      "by_appointment": 18.40,
+                      "Zero_emission_vehicle_with_agreement":5.52
+                    },
+                    {
+                      "name": "E6 Dal - Boksrud",
+                      "full_price": 23,
+                      "by_appointment": 18.40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Boksrud - Minnesund",
+                      "full_price": 18,
+                      "by_appointment": 14.40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Minnesund - Hedmark border",
+                      "full_price": 24,
+                      "by_appointment": 19.20,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Akershus border - Skaberud",
+                      "full_price": 25,
+                      "by_appointment": 20,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Skaberud - Kolomoen",
+                      "full_price": 27,
+                      "by_appointment": 21.60,
+                      "Zero_emission_vehicle_with_agreement":10.80
+                    },
+                    {
+                      "name": "E6 Jønsberg",
+                      "full_price": 24	,
+                      "by_appointment": 19.20,
+                      "Zero_emission_vehicle_with_agreement":9.60
+                    },
+                    {
+                      "name": "E6 Vienna N",
+                      "full_price": 19,
+                      "by_appointment": 15.20,
+                      "Zero_emission_vehicle_with_agreement":7.60
+                    },
+                    {
+                      "name": "E6 Bergshøgda",
+                      "full_price": 19,
+                      "by_appointment": 15.20,
+                      "Zero_emission_vehicle_with_agreement":7.60
+                    },
+                    {
+                      "name": "E6 Ökelsrud",
+                      "full_price": 19,
+                      "by_appointment": 15.20,
+                      "Zero_emission_vehicle_with_agreement":7.60
+                    }
+                  ]
+                },
+
+
+                {
+                  "name": "Tariff group 2",
+                  "toll_stations": [
+                    {
+                      "name": "E6 Hovinmoen - Dal",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Dal - Boksrud",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Boksrud - Minnesund",
+                      "full_price_and_agreement": 19,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Minnesund - Hedmark border",
+                      "full_price_and_agreement": 40,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Akershus border - Skaberud",
+                      "full_price_and_agreement": 42,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Skaberud - Kolomoen",
+                      "full_price_and_agreement": 46,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Jønsberg",
+                      "full_price_and_agreement": 48,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Vienna N",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Bergshøgda",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    },
+                    {
+                      "name": "E6 Ökelsrud",
+                      "full_price_and_agreement": 38,
+                      "Zero_emission_vehicle_with_agreement":0
+                    }
+                  ]
+                  
+                }
+              ]
+            }
+          ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://grenland.vegfinans.no/priser-og-betaling/takster",
+        "tariffs":[
+            {
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "toll_stations": [
+                      {
+                        "name": "Outside of rush hour",
+                        "full_price": 17.00,
+                        "by_appointment": 13.60
+                      },
+                      {
+                        "name": "During rush hour",
+                        "full_price": 23.00,
+                        "by_appointment": 18.40
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "toll_stations": [
+                        {
+                            "name": "Outside of rush hour",
+                            "full_price_and_agreement": 27.00
+                          },
+                          {
+                            "name": "During rush hour",
+                            "full_price_and_agreement": 38.00
+                          }
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "url": "https://nedreglomma.vegfinans.no/priser-og-betaling/takster-6",
+        "tariffs":[
+            {
+              "starting_date": "Friday 15 November 2019",
+              "name": "City package Nedre Glomma phase 1",
+                "tariff_groups": [
+                  {
+                    "name": "Tariff group 1",
+                    "Toll_rate": [
+                      {
+                        "full_price": 30,
+                        "by_appointment": 24
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tariff group 2",
+                    "Toll_rate": [
+                        {
+                            "full_price_and_agreement": 60.00
+                          }
+                          
+                    ]
+                  }
+                ]
+              }
+        ]
+    },
+
+
+
+
+
+
+
+    {
+        "url": "https://www.fjellinjen.no/bompenger/historiske-takster",
+        "Rates_from_1_September_2022_to_28_February_2023": [
+          
+          {
+            "tariff_group_1": {
+              "Price": {
+                "Except rush hour": {
+                  "Petrol/rechargeable hybrid": "NOK 28",
+                  "Diesel": "NOK 32",
+                  "Electric car": "NOK 14"
+                },
+                "Rush hour": {
+                  "Petrol/rechargeable hybrid": "NOK 34",
+                  "Diesel": "NOK 37",
+                  "Electric car": "NOK 17"
+                }
+              }
+              
+            },
+            
+            "tariff_group_2": {
+
+              "price":{
+                "Outdoor rush": {
+                  "Euro 5 and older": "NOK 88",
+                  "Euro 6": "NOK 49",
+                  "Zero emissions and gas": "NOK 0"
+                },
+                "During rush hour": {
+                  "Euro 5 and older": "NOK 104",
+                  "Euro 6": "NOK 66",
+                  "Zero emissions and gas": "NOK 0"
+                }
+              }
+            }
+          }
+          
+           
+        ],
+        "Rates_from_1_October_2021_to_31_August_2022":[
+          {
+            "tariff_group_1":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 18",
+                    "Diesel": "NOK 20",
+                    "Electric car": "NOK 5"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 24",
+                    "Electric car": "NOK 9"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 26",
+                    "Electric car": "NOK 6"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 11"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 26",
+                    "Electric car": "NOK 6"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 11"
+                  }
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 49",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 66",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 49",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 66",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 49",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 66",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              }
+            }
+          }
+          
+
+        ],
+
+
+        "Rates_from_1_January_2021_to_30_September_2021":[
+          {
+            "tariff_group_1":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 18",
+                    "Diesel": "NOK 20",
+                    "Electric car": "NOK 5"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 24",
+                    "Electric car": "NOK 10"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 26",
+                    "Electric car": "NOK 10"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 14"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 22",
+                    "Diesel": "NOK 26",
+                    "Electric car": "NOK 10"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 14"
+                  }
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 54",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 71",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 54",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 71",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 88",
+                    "Euro VI": "NOK 54",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 104",
+                    "Euro VI": "NOK 71",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              }
+            }
+          }
+          
+
+        ],
+
+        "Rates_from 1_June_2019_to_31_December_2020":[
+          {
+            "tariff_group_1":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 17",
+                    "Diesel": "NOK 19",
+                    "Electric car": "NOK 4"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 21",
+                    "Diesel": "NOK 23",
+                    "Electric car": "NOK 8"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 21",
+                    "Diesel": "NOK 25",
+                    "Electric car": "NOK 5"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 10"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 21",
+                    "Diesel": "NOK 25",
+                    "Electric car": "NOK 5"
+                  },
+  
+                  "During rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 28",
+                    "Diesel": "NOK 31",
+                    "Electric car": "NOK 10"
+                  }
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Inner_ring":{
+                "Two-way_payment":{
+  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 86",
+                    "Euro VI": "NOK 53",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 101",
+                    "Euro VI": "NOK 69",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+              "The_Ring_of_Oslo":{
+                "Two-way_payment":{
+  
+                  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 86",
+                    "Euro VI": "NOK 53",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 101",
+                    "Euro VI": "NOK 69",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              },
+
+              "The_city_limits":{
+                "Two-way_payment":{
+  
+                  
+                  "Except rush hour": {
+                    "Euro V and older": "NOK 86",
+                    "Euro VI": "NOK 53",
+                    "Zero emissions": "NOK 0"
+                  },
+  
+                  "During rush hour": {
+                    "Euro V and older": "NOK 101",
+                    "Euro VI": "NOK 69",
+                    "Zero emissions": "NOK 0"
+                  }
+  
+                }
+              }
+            }
+          }
+        ],
+        "Rates_from_1_July_2018_to_31_May_2019":[
+          {
+            "tariff_group_1":{
+              "Prices_in_Oslo":{
+                "The_toll_stations_in_Oslo":{
+  
+                  "Passing outside rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 45",
+                    "Diesel": "NOK 50",
+                    "Electric car": "NOK 0"
+                  },
+  
+                  "With AutoPASS agreement (10% discount)": {
+                    "Petrol/rechargeable hybrid": "NOK 40.50",
+                    "Diesel": "NOK 45",
+                    "Electric car": "NOK 0"
+                  },
+                  "Passing in rush hour": {
+                    "Petrol/rechargeable hybrid": "NOK 55",
+                    "Diesel": "NOK 60",
+                    "Electric car": "NOK 0"
+                  },
+                  "With AutoPAS agreement (10% discount)": {
+                    "Petrol/rechargeable hybrid": "NOK 49.50",
+                    "Diesel": "NOK 54",
+                    "Electric car": "NOK 0"
+                  }
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Prices_in_Oslo":{
+                "The_toll_stations_in_Oslo":{
+  
+                  "Passing outside rush hour": {
+                    "Euro VI": "NOK 104",
+                    "Euro V and older": "NOK 166",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+  
+                  "With AutoPASS agreement (10% discount)": {
+                    "Euro VI": "NOK 93.60",
+                    "Euro V and older": "NOK 149.40",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "Passing in rush hour": {
+                    "Euro VI": "NOK 135",
+                    "Euro V and older": "NOK 198",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "With AutoPAS agreement (10% discount)": {
+                    "Euro VI": "NOK 121.50",
+                    "Euro V and older": "NOK 178.20",
+                    "Electricity and hydrogen": "NOK 0"
+                  }
+  
+                }
+              }
+            }
+          }
+        ],
+
+        "Prices_in_Bærum_from_1_October_2017_to_31_May_2019":[
+          {
+           
+              "Prices in Bærum":{
+                "The_toll_stations_in_Bærum":{
+  
+                  "Round the clock": {
+                    "Tariff group 1": "NOK 18",
+                    "Tariff group 2": "NOK 54",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+  
+                  "With AutoPASS agreement (10% discount)": {
+                    "Petrol/rechargeable hybrid": "NOK 16.20",
+                    "Diesel": "NOK 48.60",
+                    "Electric car": "NOK 0"
+                  }
+  
+                }
+              
+            }
+          }
+        ],
+        "Rates_from_1_October_2017_to_30_June_2018":[
+          {
+            "tariff_group_1":{
+              "rates":{
+                "The_toll_stations_in_Oslo":{
+  
+                  "Off-rush passesr": {
+                    "Petrol/rechargeable hybrid": "NOK 44",
+                    "Diesel": "NOK 49",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+  
+                  "With AutoPASS agreement (10% discount)": {
+                    "Petrol/rechargeable hybrid": "NOK 39.60",
+                    "Diesel": "NOK 44.10",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "Passes in a rush": {
+                    "Petrol/rechargeable hybrid": "NOK 54",
+                    "Diesel": "NOK 59",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "With AutoPAS agreement (10% discount)": {
+                    "Petrol/rechargeable hybrid": "NOK 48.60",
+                    "Diesel": "NOK 53.10",
+                    "Electricity and hydrogen": "NOK 0"
+                  }
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "rates":{
+                "The_toll_stations_in_Oslo":{
+  
+                  "Off-rush passesr": {
+                    "Euro VI": "NOK 102",
+                    "Euro V and older": "NOK 163",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+  
+                  "With AutoPASS agreement (10% discount)": {
+                    "Euro VI": "NOK 91.80",
+                    "Euro V and older": "NOK 146.70",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "Passes in a rush": {
+                    "Euro VI": "NOK 132",
+                    "Euro V and older": "NOK 193",
+                    "Electricity and hydrogen": "NOK 0"
+                  },
+                  "With AutoPAS agreement (10% discount)": {
+                    "Euro VI": "NOK 118.80",
+                    "Euro V and older": "NOK 173.70",
+                    "Electricity and hydrogen": "NOK 0"
+                  }
+  
+                }
+              }
+            }
+          }
+        ],
+        "Rates_from_1_July_2017_to_30_September_2017":[
+          {
+            "tariff_group_1":{
+              "Passes in Oslo, without appointment":"NOK 35",
+              "Passes in Oslo, with agreement (10%)":"NOK 31.50",
+              "Passes in Bærum, without appointment":"NOK 17.50",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 15.75"
+              
+              
+            },
+            "tariff_group_2":{
+              "Passes in Oslo, without appointment":"NOK 105",
+              "Passes in Oslo, with agreement (10%)":"NOK 94.50",
+              "Passes in Bærum, without appointment":"NOK 52.50",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 47.25"
+              
+              
+            }
+          }
+        ],
+        "Rates_from_1_February_2017_to_30_June_2017":[
+          {
+            "tariff_group_1":{
+              "Passes in Oslo, without appointment":"NOK 34",
+              "Passes in Oslo, with agreement (10%)":"NOK 30.60",
+              "Passes in Bærum, without appointment":"NOK 17",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 15.30"
+              
+              
+            },
+            "tariff_group_2":{
+              "Passes in Oslo, without appointment":"NOK 102",
+              "Passes in Oslo, with agreement (10%)":"NOK 91.80",
+              "Passes in Bærum, without appointment":"NOK 51",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 45.90"
+              
+              
+            }
+          }
+        ],
+
+        "Rates_from_1_August_2016_to_31_January_2017":[
+          {
+            "tariff_group_1":{
+              "Passes in Oslo, without appointment":"NOK 33",
+              "Passes in Oslo, with agreement (10%)":"NOK 29.70",
+              "Passes in Bærum, without appointment":"NOK 16.50",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 14.85"
+              
+              
+            },
+            "tariff_group_2":{
+              "Passes in Oslo, without appointment":"NOK 99",
+              "Passes in Oslo, with agreement (10%)":"NOK 89.10",
+              "Passes in Bærum, without appointment":"49.50",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 44.55"
+              
+              
+            }
+          }
+        ],
+
+        "Rates_from_27_April_2015_to_31_July_2016":[
+          {
+            "tariff_group_1":{
+              "Passes in Oslo, without appointment":"NOK 32",
+              "Passes in Oslo, with agreement (10%)":"NOK 28.80",
+              "Passes in Bærum, without appointment":"NOK 16",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 14.40"
+              
+              
+            },
+            "tariff_group_2":{
+              "Passes in Oslo, without appointment":"NOK 96",
+              "Passes in Oslo, with agreement (10%)":"NOK 86.40",
+              "Passes in Bærum, without appointment":"48",
+              "Passes in Bærum, with agreement (10% discount)":"NOK 43.20"
+              
+              
+            }
+          }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://www.fjellinjen.no/bompenger/takster",
+        "tariffs":[
+          {
+            "tariff_group_1":{
+              "Without AutoPASS":{
+                "Except rush hour":{
+                  "Petrol/rechargeable hybrid":"NOK 29",
+                  "Diesel":"NOK 33",
+                  "Electric car":"NOK 14"
+  
+                },
+                "During rush hour":{
+                  "Petrol/rechargeable hybrid":"NOK 35",
+                  "Diesel":"NOK 38",
+                  "Electric car":"NOK 17"
+  
+                }
+              },
+              "With AutoPASS":{
+                "Except rush hour":{
+                  "Petrol/rechargeable hybrid":"NOK 23.20",
+                  "Diesel":"NOK 26.40",
+                  "Electric car":"NOK 11.20"
+  
+                },
+                "During rush hour":{
+                  "Petrol/rechargeable hybrid":"28",
+                  "Diesel":"NOK 30.40",
+                  "Electric car":"NOK 13.60"
+  
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Without AutoPASS":{
+                "Except rush hour":{
+                  "Euro 5 and older":"NOK 91",
+                  "Euro 6":"NOK 51",
+                  "Zero emissions and gas":"NOK 0"
+  
+                },
+                "During rush hour":{
+                  "Euro 5 and older":"NOK 108",
+                  "Euro 6":"NOK 68",
+                  "Zero emissions and gas":"NOK 0"
+  
+                }
+              },
+              "With AutoPASS":{
+                "Except rush hour":{
+                  "Euro 5 and older":"NOK 91",
+                  "Euro 6":"NOK 51",
+                  "Zero emissions and gas":"NOK 0"
+  
+                },
+                "During rush hour":{
+                  "Euro 5 and older":"NOK 108",
+                  "Euro 6":"NOK 68",
+                  "Zero emissions and gas":"NOK 0"
+  
+                }
+              }
+            }
+          }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "url": "https://bpsnord.no/prosjekter/bypakke-harstad/",
+        "tariffs": [
+            {
+              "tariff_group_1":{
+                "Petrol_diesel_plug-in_hybrid":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Skaunveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Stone Road":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Kongsveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Seljestad":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Skolegata":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"12.80"
+                    }
+                    
+                  }
+
+                },
+                "Zero emission vehicle":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Skaunveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Stone Road":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Kongsveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Seljestad":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Skolegata":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"16.00",
+                      "Valid AutoPASS agreement and chip":"6.40"
+                    }
+                  }
+
+                }
+
+              },
+              "tariff_group_2":{
+                "Petrol_diesel_plug-in_hybrid":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"25.00"
+                    }
+                    
+                  }
+
+                },
+                "Zero emission vehicle":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"25.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    }
+                  }
+
+                }
+              }
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/bypakke-bodo/",
+        "tariffs": [
+            {
+              "tariff_group_1":{
+                "Petrol_diesel_plug-in_hybrid":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"16.00"
+                    }
+                    
+                  }
+
+                },
+                "Zero emission vehicle":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"20.00",
+                      "Valid AutoPASS agreement and chip":"8.00"
+                    }
+                  }
+
+                }
+
+              },
+              "tariff_group_2":{
+                "Petrol_diesel_plug-in_hybrid":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"45.00"
+                    }
+                    
+                  }
+
+                },
+                "Zero emission vehicle":{
+                  "toll_stations":{
+                    "Rv83 Kanebogen":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Skaunveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Stone Road":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Kongsveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Rv83 The lure":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Seljestad":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Skolegata":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    },
+                    "Samasjøveien":{
+                      "Full price":"45.00",
+                      "Valid AutoPASS agreement and chip":"0.00"
+                    }
+                  }
+
+                }
+              }
+            }
+        ]
+    },
+
+
+
+
+
+
+
+    
+    {
+        "url": "https://bpsnord.no/bypakke-tenk-tromso/",
+        "tariffs": [
+            {
+              
+                
+              "tariff_group_1":{
+                "normal_charges":{
+                "Petrol, diesel, plug-in hybrid":{
+                  "Toll_stations":{
+                  "All toll stations (15)":{
+                    "Full price":"12.00",
+                    "Valid agreement and token":"9.60"
+                  }
+                }
+
+                },
+                "Zero emission vehicle":{
+                  "Toll_stations":{
+                  "All toll stations (15)":{
+                    "Full price":"12.00",
+                    "Valid agreement and token":"4.80"
+                  }
+                }
+
+                }
+              },
+
+              "Rush_hour_charge":{
+                "Petrol, diesel, plug-in hybrid":{
+                  "Toll_stations":{
+                  "All toll stations (15)":{
+                    "Full price":"36.00",
+                    "Valid agreement and token":"28.80"
+                  }
+                }
+
+                },
+                "Zero emission vehicle":{
+                  "Toll_stations":{
+                  "All toll stations (15)":{
+                    "Full price":"36.00",
+                    "Valid agreement and token":"14.40"
+                  }
+                }
+
+                }
+              }
+
+              },
+              "tariff_group_2":{
+                "normal_charges":{
+                  "Petrol, diesel, plug-in hybrid":{
+                    "Toll_stations":{
+                    "All toll stations (15)":{
+                      "Full price":"24.00",
+                      "Valid agreement and token":"24.00"
+                    }
+                  }
+  
+                  },
+                  "Zero emission vehicle":{
+                    "Toll_stations":{
+                    "All toll stations (15)":{
+                      "Full price":"24.00",
+                      "Valid agreement and token":"0.00"
+                    }
+                  }
+  
+                  }
+                },
+  
+                "Rush_hour_charge":{
+
+                  "Petrol, diesel, plug-in hybrid":{
+                    "Toll_stations":{
+                    "All toll stations (15)":{
+                      "Full price":"72.00",
+                      "Valid agreement and token":"72.00"
+                    }
+                  }
+  
+                  },
+                  "Zero emission vehicle":{
+                    "Toll_stations":{
+                    "All toll stations (15)":{
+                      "Full price":"72.00",
+                      "Valid agreement and token":"0.00"
+                    }
+                  }
+  
+                  }
+                }
+                
+              }
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/fv-78-toven,/",
+        "tariffs": [
+          {
+            
+              
+            "tariff_group_1":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                "Hartåsen":{
+                  "Full price":"26.00",
+                  "Valid agreement and token":"20.80"
+                },
+                "Drevja":{
+                  "Full price":"30.00",
+                  "Valid agreement and token":"24.00"
+                },
+                "The twine":{
+                  "Full price":"91.00",
+                  "Valid agreement and token":"72.80"
+                }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "Hartåsen":{
+                    "Full price":"26.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "Drevja":{
+                    "Full price":"30.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "The twine":{
+                    "Full price":"91.00",
+                    "Valid agreement and token":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "tariff_group_2":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                "Hartåsen":{
+                  "Full price":"44.00",
+                  "Valid agreement and token":"44.00"
+                },
+                "Drevja":{
+                  "Full price":"48.00",
+                  "Valid agreement and token":"48.00"
+                },
+                "The twine":{
+                  "Full price":"245.00",
+                  "Valid agreement and token":"245.00"
+                }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "Hartåsen":{
+                    "Full price":"44.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "Drevja":{
+                    "Full price":"48.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "The twine":{
+                    "Full price":"245.00",
+                    "Valid agreement and token":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "Exemptions and rules":{
+              "Time rule":"No, local timetable at Hjartåsen.",
+              "Monthly amount":"no",
+              "Rush hour tariff":"no",
+              "Exemption for people with reduced mobility":"no"
+            }
+
+            } 
+      ]
+    },
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/e6-helgeland/",
+        "tariffs": [
+          {
+            
+              
+            "tariff_group_1":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                "E6 Skamdal":{
+                  "Full price":"13.00",
+                  "Valid AutoPASS agreement and tag":"10.40"
+                },
+                "E6 Reinforshei":{
+                  "Full price":"18.00",
+                  "Valid AutoPASS agreement and tag":"14.40"
+                },
+                "E6 Bolna":{
+                  "Full price":"45.00",
+                  "Valid AutoPASS agreement and tag":"36.00"
+                }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "E6 Skamdal":{
+                    "Full price":"13.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Reinforshei":{
+                    "Full price":"18.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Bolna":{
+                    "Full price":"45.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "tariff_group_2":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "E6 Skamdal":{
+                    "Full price":"32.00",
+                    "Valid AutoPASS agreement and tag":"32.00"
+                  },
+                  "E6 Reinforshei":{
+                    "Full price":"45.00",
+                    "Valid AutoPASS agreement and tag":"45.00"
+                  },
+                  "E6 Bolna":{
+                    "Full price":"109.00",
+                    "Valid AutoPASS agreement and tag":"109.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "Hartåsen":{
+                    "Full price":"32.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "Drevja":{
+                    "Full price":"45.00",
+                    "Valid agreement and token":"0.00"
+                  },
+                  "The twine":{
+                    "Full price":"109.00",
+                    "Valid agreement and token":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "Exemptions and rules":{
+              "Time rule":"no",
+              "Monthly amount":"no",
+              "Rush hour tariff":"no",
+              "Exemption for people with reduced mobility":"no"
+            }
+
+            } 
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/e6-helgeland-sor/",
+         "tariffs": [
+          {
+            
+              
+            "tariff_group_1":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "E6 Svenningvatnet":{
+                    "Full price":"31.00",
+                    "Valid AutoPASS agreement and tag":"24.80"
+                  },
+                  "E6 Municipal border Grane_Vefsn":{
+                    "Full price":"31.00",
+                    "Valid AutoPASS agreement and tag":"24.80"
+                  },
+                  "Forsmo/Fusta, formerly E6":{
+                    "Full price":"26.00",
+                    "Valid AutoPASS agreement and tag":"20.80"
+                  },
+                  "Forsmo/Fusta, new E6":{
+                    "Full price":"26.00",
+                    "Valid AutoPASS agreement and tag":"20.80"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "E6 Svenningvatnet":{
+                    "Full price":"31.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Municipal border Grane_Vefsn":{
+                    "Full price":"31.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "Forsmo/Fusta, formerly E6":{
+                    "Full price":"26.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "Forsmo/Fusta, new E6":{
+                    "Full price":"26.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "tariff_group_2":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "E6 Svenningvatnet":{
+                    "Full price":"76.00",
+                    "Valid AutoPASS agreement and tag":"76.00"
+                  },
+                  "E6 Municipal border Grane_Vefsn":{
+                    "Full price":"76.00",
+                    "Valid AutoPASS agreement and tag":"76.00"
+                  },
+                  "Forsmo/Fusta, formerly E6":{
+                    "Full price":"63.00",
+                    "Valid AutoPASS agreement and tag":"63.00"
+                  },
+                  "Forsmo/Fusta, new E6":{
+                    "Full price":"63.00",
+                    "Valid AutoPASS agreement and tag":"63.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "E6 Svenningvatnet":{
+                    "Full price":"76.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Municipal border Grane_Vefsn":{
+                    "Full price":"76.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "Forsmo/Fusta, formerly E6":{
+                    "Full price":"63.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "Forsmo/Fusta, new E6":{
+                    "Full price":"63.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "Exemptions and rules":{
+              "Time rule":"no",
+              "Monthly amount":"no",
+              "Rush hour tariff":"no",
+              "Exemption for people with reduced mobility":"no"
+            }
+
+            } 
+      ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/ryaforbindelsen/",
+        "tariffs": [
+          {
+            
+            "tariff_group_1":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "The Rya connection":{
+                    "Full price":"85.00",
+                    "Valid AutoPASS agreement and tag":"68.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "The Rya connection":{
+                    "Full price":"85.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "tariff_group_2":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "The Rya connection":{
+                    "Full price":"75.00",
+                    "Valid AutoPASS agreement and tag":"75.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "The Rya connection":{
+                    "Full price":"75.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "Exemptions and rules":{
+              "Time rule":"no",
+              "Monthly amount":"no",
+              "Rush hour tariff":"no",
+              "Exemption for people with reduced mobility":"no"
+            }
+
+            } 
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "url": "https://bpsnord.no/prosjekter/halogalandsbrua/",
+        "tariffs": [
+          {
+            
+            "tariff_group_1":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "E6/E10 Leirvik by the Trældal tunnel":{
+                    "Full price":"22.00",
+                    "Valid AutoPASS agreement and tag":"17.60"
+                  },
+                  "E6 Hålogalandsbrua":{
+                    "Full price":"90.00",
+                    "Valid AutoPASS agreement and tag":"72.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "E6/E10 Leirvik by the Trældal tunnel":{
+                    "Full price":"22.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Hålogalandsbrua":{
+                    "Full price":"90.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "tariff_group_2":{
+              "Vehicles under 3.5 tonnes":{
+              "Petrol, diesel, plug-in hybrid":{
+                "Toll_stations":{
+                  "E6/E10 Leirvik by the Trældal tunnel":{
+                    "Full price":"50.00",
+                    "Valid AutoPASS agreement and tag":"50.00"
+                  },
+                  "E6 Hålogalandsbrua":{
+                    "Full price":"225.00",
+                    "Valid AutoPASS agreement and tag":"225.00"
+                  }
+              }
+
+              },
+              "Zero emission vehicle":{
+                "Toll_stations":{
+                  "E6/E10 Leirvik by the Trældal tunnel":{
+                    "Full price":"50.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  },
+                  "E6 Hålogalandsbrua":{
+                    "Full price":"225.00",
+                    "Valid AutoPASS agreement and tag":"0.00"
+                  }
+                }
+
+              }
+            }
+             
+            },
+            "Exemptions and rules":{
+              "Time rule":"no",
+              "Monthly amount":"no",
+              "Rush hour tariff":"no",
+              "Exemption for people with reduced mobility":"no"
+            }
+
+            } 
+      ]
+    },
+
+
+
+
+
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-9",
+        "tariffs": [
+            {
+
+              "tariff_group_1":{
+                "Toll stations":{
+                  "Fv. 659 Nordøyvegen":{
+                    "Full price":"NOK 219.00",
+                    "With Agreement":"NOK 175.20",
+                    "Zero emission vehicle with agreement":"NOK 87.60"
+                  }
+                }
+
+              },
+              "tariff_group_2":{
+                "Toll stations":{
+                  "Fv. 659 Nordøyvegen":{
+                    "Full price":"NOK 657.00",
+                    "With Agreement":"NOK 657.00",
+                    "Zero emission vehicle with agreement":"NOK 0.00"
+                  }
+                }
+                
+              }
+                
+            }
+        ]
+    },
+
+
+
+
+
+    
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter/takstgruppe-1",
+        "tariffs": [
+          {
+            "tariff_group_1":{
+              "Toll stations":{
+                "Environmental package Trondheim, Bomsnitt East":{
+                  "S58. Be (Malvikvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+                },
+
+                "Environmental package Trondheim, Bomsnitt Sluppen":{
+                  "S55. North of Sluppen bridge (Tempevn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S54. Bjørndalen (Oslovn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S53. Lower Leirfoss (Fossestuvn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+                },
+                "Environmental package Trondheim, Bomsnitt Sor":{
+                  "S52. Climb E6 Storlerbakken":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S51. Klett rv707":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Toll cut along the bypass":{
+                  "S59. Rv706 Leangensletta (west of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S60. Haakon VIIs gt (west of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S61. Landbruksvegen (by IKEA)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S62. Tungasletta (south of Bromstadvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S63. Moholt (Brøstvegen/ Jonsvannveien)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  
+                  "S64. Torbjørn Bratts road (north of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+
+                  "S65. Bratsbergveien (north of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S66. Tempeveien (north of Sluppenvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  
+                  "S56/S57. Kroppan bridge / Holtemannsvegen (Northbound/ Southbound)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Byasen":{
+                  "S67. Bøckmans road (north of Svalevegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S68. Byåsvegen (south of Havstadvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "P69. Gamle Oslovei (north of Skavlandsveg)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Klaebu":{
+                  "S86. Fv 885 Tillerbrua":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S85. Fv 704 Torgårdsletta":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Tonstad":{
+                  "S86. Fv 885 Tillerbrua":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)"
+                    }
+                  }
+
+                }
+              }
+            },
+
+
+            "tariff_group_2":{
+              "Toll stations":{
+                "Environmental package Trondheim, Bomsnitt East":{
+                  "S58. Be (Malvikvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+                },
+
+                "Environmental package Trondheim, Bomsnitt Sluppen":{
+                  "S55. North of Sluppen bridge (Tempevn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S54. Bjørndalen (Oslovn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S53. Lower Leirfoss (Fossestuvn)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+                },
+                "Environmental package Trondheim, Bomsnitt Sor":{
+                  "S52. Climb E6 Storlerbakken":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S51. Klett rv707":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Toll cut along the bypass":{
+                  "S59. Rv706 Leangensletta (west of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S60. Haakon VIIs gt (west of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S61. Landbruksvegen (by IKEA)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S62. Tungasletta (south of Bromstadvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S63. Moholt (Brøstvegen/ Jonsvannveien)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  
+                  "S64. Torbjørn Bratts road (north of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+
+                  "S65. Bratsbergveien (north of the Ring Road)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S66. Tempeveien (north of Sluppenvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  
+                  "S56/S57. Kroppan bridge / Holtemannsvegen (Northbound/ Southbound)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Byasen":{
+                  "S67. Bøckmans road (north of Svalevegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "S68. Byåsvegen (south of Havstadvegen)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  },
+
+                  "P69. Gamle Oslovei (north of Skavlandsveg)":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Klaebu":{
+                  "S86. Fv 885 Tillerbrua":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  },
+
+                  "S85. Fv 704 Torgårdsletta":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"19.00 (38.00)*",
+                      "With Agreement":"15.20 (30.40)*",
+                      "With agreement Zero emissions":"6.08 (12.16)*"
+                    }
+                  }
+
+                },
+
+                "Environmental package Trondheim, Bomsnitt Tonstad":{
+                  "S86. Fv 885 Tillerbrua":{
+                    "Rush hour fee: 7:00 - 9:00 and 15:00 - 17:00":{
+                      "Full price":"14.00 (18.00)*",
+                      "With Agreement":"11.20 (14.40)*",
+                      "With agreement Zero emissions":"4.48 (5.76)"
+                    }
+                  }
+
+                }
+              }
+            }
+
+          }
+        ]
+    },
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-2",
+        "tariffs": [
+           {
+            "tariff_group_1":{
+              "Toll stations":{
+                "Hommelvik":{
+                  "Full price":"NOK 21.00",
+                  "By agreement":"NOK 16.80 ",
+                  "Zero emission vehicle with agreement":"NOK 6.72"
+                },
+
+                "Leistad":{
+                  "Full price":"NOK 21.00",
+                  "By agreement":"NOK 16.80 ",
+                  "Zero emission vehicle with agreement":"NOK 6.72"
+                },
+
+                "Ranheim":{
+                  "Full price":"NOK 42.00",
+                  "By agreement":"NOK 33.60",
+                  "Zero emission vehicle with agreement":"NOK 13.44"
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Toll stations":{
+                "Hommelvik":{
+                  "Full price":"NOK 31.00",
+                  "By agreement":"NOK 31.00 ",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+
+                "Leistad":{
+                  "Full price":"NOK 31.00",
+                  "By agreement":"NOK 31.00 ",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+
+                "Ranheim":{
+                  "Full price":"NOK 64.00",
+                  "By agreement":"NOK 64.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                }
+              }
+            }
+           }
+        ]
+    },
+
+
+
+
+
+
+
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-3",
+        "tariffs": [
+           {
+            "tariff_group_1":{
+              "Toll stations":{
+                "Våvatnet​":{
+                  "Full price":"NOK 74.00",
+                  "By agreement":"NOK 59.20",
+                  "Zero emission vehicle with agreement":"NOK 29.60"
+                },
+
+                "Waltz team":{
+                  "Full price":"NOK 92.00",
+                  "By agreement":"NOK 73.60",
+                  "Zero emission vehicle with agreement":"NOK 36.80"
+                }
+              }
+            },
+
+            "tariff_group_2":{
+              "Toll stations":{
+                "Våvatnet​":{
+                  "Full price":"NOK 245.00",
+                  "By agreement":"NOK 245.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+
+                "Waltz team":{
+                  "Full price":"NOK 309.00",
+                  "By agreement":"NOK 309.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                }
+              }
+            }
+           }
+        ]
+    },
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-6",
+        "tariffs": [
+          {
+           "tariff_group_1":{
+             "Toll stations":{
+               "E6 Soknedal":{
+                 "Full price":"NOK 51.00",
+                 "By agreement":"NOK 40.80",
+                 "Zero emission vehicle with agreement":"NOK 20.40"
+               }
+             }
+           },
+
+           "tariff_group_2":{
+             "Toll stations":{
+               "E6 Soknedal":{
+                 "Full price":"NOK 101.00",
+                 "By agreement":"NOK 101.00",
+                 "Zero emission vehicle with agreement":"NOK 0.00"
+               }
+
+               
+             }
+           }
+          }
+       ]
+    },
+
+
+
+
+
+
+
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-4",
+        "tariffs": [
+          {
+           "tariff_group_1":{
+             "Toll stations":{
+               "Krinsvatn":{
+                 "Full price":"NOK 53.00",
+                 "By agreement":"NOK 42.40",
+                 "Zero emission vehicle with agreement":"NOK 21.20"
+               }
+             }
+           },
+
+           "tariff_group_2":{
+             "Toll stations":{
+               "Krinsvatn":{
+                 "Full price":"NOK 127.00",
+                 "By agreement":"NOK 127.00",
+                 "Zero emission vehicle with agreement":"NOK 0.00"
+               }
+
+               
+             }
+           }
+          }
+       ]
+    },
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-5",
+        "tariffs": [
+          {
+           "tariff_group_1":{
+             "Toll stations":{
+               "Fv.17 Dyrstad":{
+                 "Full price":"NOK 29.00",
+                 "By agreement":"NOK 22.20",
+                 "Zero emission vehicle with agreement":"NOK 11.60"
+               },
+               "Fv.17 Sprova":{
+                "Full price":"NOK 48.00",
+                "By agreement":"NOK 38.40",
+                "Zero emission vehicle with agreement":"NOK 19.20"
+              },
+              "Fv.720 Ore":{
+                "Full price":"NOK 56.00",
+                "By agreement":"NOK 44.80",
+                "Zero emission vehicle with agreement":"NOK 22.40"
+              }
+             }
+           },
+
+           "tariff_group_2":{
+            "Toll stations":{
+              "Fv.17 Dyrstad":{
+                "Full price":"59.00",
+                "By agreement":"NOK 59.00",
+                "Zero emission vehicle with agreement":"NOK 0.00"
+              },
+              "Fv.17 Sprova":{
+               "Full price":"NOK 96.00",
+               "By agreement":"NOK 96.00",
+               "Zero emission vehicle with agreement":"NOK 0.00"
+             },
+             "Fv.720 Ore":{
+               "Full price":"NOK 112.00",
+               "By agreement":"NOK 112.00",
+               "Zero emission vehicle with agreement":"NOK 0.00"
+             }
+            }
+           }
+          }
+       ]
+    },
+    {
+        "url": "https://www.vegamot.no/takster-og-rabatter-7",
+        "tariffs":[
+          {
+            "tariff_group_1":{
+              "Toll stations":{
+                "Clip":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Volsdalen":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Lerstadvegen":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Hatlaåsen":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Olsvika":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "The outer cavity":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Breivika":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Moa":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "The river hill":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Liljedahlen":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Blindheimsbreivika":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                },
+                "Brusdalsvegen":{
+                  "Full price":"NOK 26.00",
+                  "With Agreement":"NOK 20.80",
+                  "Zero emission vehicle with agreement":"NOK 10.40"
+                }
+              }
+            },
+            "tariff_group_2":{
+              "Toll stations":{
+                "Clip":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Volsdalen":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Lerstadvegen":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Hatlaåsen":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Olsvika":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "The outer cavity":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Breivika":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Moa":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "The river hill":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Liljedahlen":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Blindheimsbreivika":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                },
+                "Brusdalsvegen":{
+                  "Full price":"NOK 52.00",
+                  "With Agreement":"NOK 52.00",
+                  "Zero emission vehicle with agreement":"NOK 0.00"
+                }
+              }
+            }
+          }
+        ]
+    }
+  ]
